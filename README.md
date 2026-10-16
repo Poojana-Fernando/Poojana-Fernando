@@ -7,20 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=About" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=About" alt="About" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contact" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contact" alt="Contact" />
 </p>
 
 <p align="center">
-  <a href="fernandodilmi64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%poojana%5D-8B949E?style=flat&logo=gmail&logoColor=0D1117" alt="Poojana" />
+  <a href="mailto:fernandilmi64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fernandilmi64%40gmail.com-8B949E?style=flat&logo=gmail&logoColor=0D1117" alt="fernandilmi64@gmail.com" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/poojana-fernando-0b1282378">
@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Tech+stack" alt="Tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Tech+stack" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Game+Development" alt="Game Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Game+Development" alt="Game Development" />
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Tools+and+Data" alt="Tools and Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Tools+and+Data" alt="Tools and Data" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=GitHub+stats" alt="GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=GitHub+stats" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Featured+projects" alt="Featured projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Featured+projects" alt="Featured projects" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contributions" alt="Contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contributions" alt="Contributions" />
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
 </p>
 
 - <a href="https://github.com/Poojana-Fernando/FaceMirror"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=FaceMirror" alt="FaceMirror" /></a>
@@ -133,7 +133,7 @@
 - <a href="https://github.com/Poojana-Fernando/APEX_WEB-UI"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=APEX_WEB-UI" alt="APEX_WEB-UI" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=760&height=42&lines=Built+by+Poojana+Fernando" alt="Built by Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=22&duration=1&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=760&height=42&lines=Built+by+Poojana+Fernando" alt="Built by Poojana Fernando" />
 </p>
 
 <p align="center">
