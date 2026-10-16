@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="fernandodilmi64@gmail.com">
+  <a href="mailto:fernandodilmi64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-67E8F9?style=flat&logo=gmail&logoColor=0B1020" alt="Poojana" />
   </a>
   &nbsp;
