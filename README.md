@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pixel/hero.png" alt="Poojana Fernando. Welcome to the Era of Ideas. Software and Game Developer. Unity, C#, Full-Stack, Secure Software." />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=170&lines=Poojana+Fernando;Welcome+to+the+Era+of+Ideas.;Software+and+Game+Developer;Unity+%C2%B7+C%23+%C2%B7+Full-Stack+%C2%B7+Secure+Software" alt="Poojana Fernando" />
 </p>
 
 <p align="center">
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/about-title.png" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=About" alt="About" />
 </p>
 
 <p align="center">
-  <img src="assets/pixel/about.png" alt="Computer Science undergraduate (BSc Hons) at NSBM Green University, Sri Lanka, specializing in game development with Unity and C# across mobile and desktop. Unity Essentials certified, with additional experience in full-stack development and secure software design., where I developed strong skills in customer service, reporting, and teamwork. I thrive on challenging projects and am always looking to grow. Reach me on LinkedIn." />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
 </p>
 
 <p align="center">
-  <img src="assets/pixel/contact-title.png" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contact" alt="Contact" />
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/tech-title.png" alt="Tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Tech+stack" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="assets/pixel/game-label.png" alt="Game Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Game+Development" alt="Game Development" />
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/game-line.png" alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
 </p>
 
 <p align="center">
-  <img src="assets/pixel/fullstack-label.png" alt="Full-Stack and Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/tools-label.png" alt="Tools and Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Tools+and+Data" alt="Tools and Data" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/stats-title.png" alt="GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=GitHub+stats" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/projects-title.png" alt="Featured projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Featured+projects" alt="Featured projects" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/contrib-title.png" alt="Contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contributions" alt="Contributions" />
 </p>
 
 <p align="center">
@@ -114,22 +114,26 @@
 </p>
 
 <p align="center">
-  <img src="assets/pixel/highlights-title.png" alt="Contribution highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
 </p>
 
 <p align="center">
-  <img src="assets/pixel/as-of.png" alt="As of October 2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
 </p>
 
-- <a href="https://github.com/Poojana-Fernando/FaceMirror"><img src="assets/pixel/star-facemirror.png" alt="FaceMirror - 3 stars" /></a>
-- <a href="https://github.com/Poojana-Fernando/healthqor_HealthID"><img src="assets/pixel/star-health.png" alt="healthqor_HealthID - 2 stars" /></a>
-- <a href="https://github.com/Poojana-Fernando/Graphosec"><img src="assets/pixel/star-graphosec.png" alt="Graphosec - 2 stars" /></a>
-- <a href="https://github.com/Poojana-Fernando/VIVA-Group-O-NSBM-WEB"><img src="assets/pixel/star-viva.png" alt="VIVA-Group-O-NSBM-WEB - 2 stars" /></a>
-- <img src="assets/pixel/star-rest.png" alt="One star each on Crow-Game, Beyond-the-stars, 3rd-Person-Controller, Natural-Scroll, NexL-Portfolio, and APEX_WEB-UI" />
-- <img src="assets/pixel/followers.png" alt="9 followers. This profile was created in December 2025." />
+- <a href="https://github.com/Poojana-Fernando/FaceMirror"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=FaceMirror" alt="FaceMirror" /></a>
+- <a href="https://github.com/Poojana-Fernando/healthqor_HealthID"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=360&height=36&lines=healthqor_HealthID" alt="healthqor_HealthID" /></a>
+- <a href="https://github.com/Poojana-Fernando/Graphosec"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=Graphosec" alt="Graphosec" /></a>
+- <a href="https://github.com/Poojana-Fernando/VIVA-Group-O-NSBM-WEB"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=420&height=36&lines=VIVA-Group-O-NSBM-WEB" alt="VIVA-Group-O-NSBM-WEB" /></a>
+- <a href="https://github.com/Poojana-Fernando/Crow-Game"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=Crow-Game" alt="Crow-Game" /></a>
+- <a href="https://github.com/Poojana-Fernando/Beyond-the-stars"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=360&height=36&lines=Beyond-the-stars" alt="Beyond-the-stars" /></a>
+- <a href="https://github.com/Poojana-Fernando/3rd-Person-Controller"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=420&height=36&lines=3rd-Person-Controller" alt="3rd-Person-Controller" /></a>
+- <a href="https://github.com/Poojana-Fernando/Natural-Scroll"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=320&height=36&lines=Natural-Scroll" alt="Natural-Scroll" /></a>
+- <a href="https://github.com/Poojana-Fernando/NexL-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=320&height=36&lines=NexL-Portfolio" alt="NexL-Portfolio" /></a>
+- <a href="https://github.com/Poojana-Fernando/APEX_WEB-UI"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=APEX_WEB-UI" alt="APEX_WEB-UI" /></a>
 
 <p align="center">
-  <img src="assets/pixel/footer.png" alt="Built by Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=22&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=42&lines=Built+by+Poojana+Fernando" alt="Built by Poojana Fernando" />
 </p>
 
 <p align="center">
