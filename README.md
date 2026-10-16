@@ -10,14 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=50&lines=About" alt="About" />
 </p>
 
-- BSc (Hons) Computer Science undergraduate at NSBM Green University, in Kadawatha, Sri Lanka.
-- Game development with Unity and C#, for mobile and desktop.
-- Unity Essentials, issued by Unity Technologies.
-- Full-stack applications and secure software sit alongside the game work.
-- Trainee experience at Bank of Ceylon: customer-facing banking, reports, and teamwork.
-- Challenging builds are how the work gets better.
-- Pronouns: He / Him.
-- Messages go through [LinkedIn](https://www.linkedin.com/in/poojana-fernando-0b1282378) until an email is filled in.
+Computer Science undergraduate (BSc Hons) at NSBM Green University, Sri Lanka, specializing in game development with Unity and C# across mobile and desktop. Unity Essentials certified, with additional experience in full-stack development and secure software design., where I developed strong skills in customer service, reporting, and teamwork. I thrive on challenging projects and am always looking to grow. Reach me on LinkedIn.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=50&lines=Contact" alt="Contact" />
@@ -126,3 +119,8 @@ As of October 2026:
 - 9 followers. This profile was created in December 2025.
 
 <p align="center"><sub>Built by Poojana Fernando</sub></p>
+
+<p align="center">
+  <img src="assets/doom-tab.gif" width="320" alt="Doom firing animation" />
+</p>
+
