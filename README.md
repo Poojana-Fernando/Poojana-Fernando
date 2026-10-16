@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fernandodilmi64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-8B949E?style=flat&logo=gmail&logoColor=0D1117" alt="Poojana" />
+  <a href="fernandodilmi64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%poojana%5D-8B949E?style=flat&logo=gmail&logoColor=0D1117" alt="Poojana" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/poojana-fernando-0b1282378">
