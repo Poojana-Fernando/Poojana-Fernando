@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-67E8F9?style=flat&logo=gmail&logoColor=0B1020" alt="[YOUR_EMAIL]" />
+  <a href="mailto:fernandodilmi64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-67E8F9?style=flat&logo=gmail&logoColor=0B1020" alt="Poojana" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/poojana-fernando-0b1282378">
@@ -78,14 +78,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=50&lines=Featured+projects" alt="Featured projects" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Poojana-Fernando/Crow-Game">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Crow-Game&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=FBBF24&text_color=C7D2FE" alt="Crow-Game" />
-  </a>
-  <a href="https://github.com/Poojana-Fernando/Beyond-the-stars">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Beyond-the-stars&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=FBBF24&text_color=C7D2FE" alt="Beyond-the-stars" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Poojana-Fernando/3rd-Person-Controller">
@@ -109,9 +101,7 @@
   <a href="https://github.com/Poojana-Fernando/Natural-Scroll">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Natural-Scroll&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=FBBF24&text_color=C7D2FE" alt="Natural-Scroll" />
   </a>
-  <a href="https://github.com/Poojana-Fernando/NexL-Portfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=NexL-Portfolio&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=FBBF24&text_color=C7D2FE" alt="NexL-Portfolio" />
-  </a>
+
 </p>
 
 <p align="center">
