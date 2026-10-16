@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Poojana-Fernando&bg_color=0b1020&color=67e8f9&line=fbbf24&point=fbbf24&area=true&hide_border=true" alt="Poojana Fernando contribution activity" />
+  <img width="100%" src="https://github-activity-chart.vercel.app/graph?username=Poojana-Fernando&bg_color=0b1020&color=67e8f9&line=fbbf24&point=fbbf24&area=true&hide_border=true" alt="Poojana Fernando contribution activity" />
 </p>
 
 <p align="center">
