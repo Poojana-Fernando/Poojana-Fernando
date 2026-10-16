@@ -6,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Poojana-Fernando&label=Profile%20Views&color=8B949E&style=flat" alt="Profile Views" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=About" alt="About" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
 </p>
 
@@ -113,11 +113,11 @@
   <img width="100%" src="https://github-activity-chart.vercel.app/graph?username=Poojana-Fernando&bg_color=0D1117&color=E6EDF3&line=8B949E&point=8B949E&area=true&hide_border=true" alt="Poojana Fernando contribution activity" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
 </p>
 
