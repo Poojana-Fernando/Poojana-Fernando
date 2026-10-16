@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fernandodilmi64@gmail.com">
+  <a href="fernandodilmi64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-67E8F9?style=flat&logo=gmail&logoColor=0B1020" alt="Poojana" />
   </a>
   &nbsp;
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poojana-Fernando&theme=onedark&no-frame=true&row=1&column=6" alt="Poojana Fernando GitHub trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Poojana-Fernando&theme=onedark&no-frame=true&row=1&column=6" alt="Poojana Fernando GitHub trophies" />
 </p>
 
 <p align="center">
