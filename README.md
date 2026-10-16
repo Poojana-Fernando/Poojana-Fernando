@@ -1,39 +1,39 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=170&lines=Poojana+Fernando;Welcome+to+the+Era+of+Ideas.;Software+and+Game+Developer;Unity+%C2%B7+C%23+%C2%B7+Full-Stack+%C2%B7+Secure+Software" alt="Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=820&height=170&lines=Poojana+Fernando;Welcome+to+the+Era+of+Ideas.;Software+and+Game+Developer;Unity+%C2%B7+C%23+%C2%B7+Full-Stack+%C2%B7+Secure+Software" alt="Poojana Fernando" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Poojana-Fernando&label=Profile%20Views&color=00FF64&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Poojana-Fernando&label=Profile%20Views&color=8B949E&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=About" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=About" alt="About" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+game+development+with+Unity+and+C%23+across;mobile+and+desktop.+Unity+Essentials+certified,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contact" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contact" alt="Contact" />
 </p>
 
 <p align="center">
   <a href="mailto:fernandodilmi64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-00FF64?style=flat&logo=gmail&logoColor=101010" alt="Poojana" />
+    <img src="https://img.shields.io/badge/Gmail-%5BYOUR__EMAIL%5D-8B949E?style=flat&logo=gmail&logoColor=0D1117" alt="Poojana" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/poojana-fernando-0b1282378">
-    <img src="https://img.shields.io/badge/LinkedIn-Poojana_Fernando-00FF64?style=flat&logo=linkedin&logoColor=101010" alt="Poojana Fernando" />
+    <img src="https://img.shields.io/badge/LinkedIn-Poojana_Fernando-8B949E?style=flat&logo=linkedin&logoColor=0D1117" alt="Poojana Fernando" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Tech+stack" alt="Tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Tech+stack" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Game+Development" alt="Game Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Game+Development" alt="Game Development" />
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Tools+and+Data" alt="Tools and Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=44&lines=Tools+and+Data" alt="Tools and Data" />
 </p>
 
 <p align="center">
@@ -61,16 +61,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=GitHub+stats" alt="GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=GitHub+stats" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Poojana-Fernando&show_icons=true&include_all_commits=true&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="Poojana Fernando GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojana-Fernando&hide_border=true&background=101010&ring=00FF64&fire=00FF64&currStreakNum=00FF64&sideNums=00FF64&currStreakLabel=00FF64&sideLabels=00FF64&dates=00FF64" alt="Poojana Fernando GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Poojana-Fernando&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="Poojana Fernando GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Poojana-Fernando&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Poojana Fernando GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojana-Fernando&layout=compact&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="Poojana Fernando top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojana-Fernando&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="Poojana Fernando top languages" />
 </p>
 
 <p align="center">
@@ -78,62 +78,62 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Featured+projects" alt="Featured projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Featured+projects" alt="Featured projects" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Poojana-Fernando/3rd-Person-Controller">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=3rd-Person-Controller&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="3rd-Person-Controller" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=3rd-Person-Controller&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="3rd-Person-Controller" />
   </a>
   <a href="https://github.com/Poojana-Fernando/healthqor_HealthID">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=healthqor_HealthID&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="healthqor_HealthID" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=healthqor_HealthID&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="healthqor_HealthID" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Poojana-Fernando/FaceMirror">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=FaceMirror&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="FaceMirror" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=FaceMirror&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="FaceMirror" />
   </a>
   <a href="https://github.com/Poojana-Fernando/Graphosec">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Graphosec&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="Graphosec" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Graphosec&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="Graphosec" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Poojana-Fernando/Natural-Scroll">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Natural-Scroll&hide_border=true&bg_color=101010&title_color=00FF64&icon_color=00FF64&text_color=00FF64" alt="Natural-Scroll" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Poojana-Fernando&repo=Natural-Scroll&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E" alt="Natural-Scroll" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contributions" alt="Contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contributions" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-activity-chart.vercel.app/graph?username=Poojana-Fernando&bg_color=101010&color=00ff64&line=00ff64&point=00ff64&area=true&hide_border=true" alt="Poojana Fernando contribution activity" />
+  <img width="100%" src="https://github-activity-chart.vercel.app/graph?username=Poojana-Fernando&bg_color=0D1117&color=E6EDF3&line=8B949E&point=8B949E&area=true&hide_border=true" alt="Poojana Fernando contribution activity" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&height=52&lines=Contribution+highlights" alt="Contribution highlights" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&width=820&height=300&lines=As+of+October+2026:;FaceMirror+-+3+stars;healthqor_HealthID+-+2+stars;Graphosec+-+2+stars;VIVA-Group-O-NSBM-WEB+-+2+stars;One+star+each+on+Crow-Game,+Beyond-the-stars,;3rd-Person-Controller,+Natural-Scroll,;NexL-Portfolio,+and+APEX_WEB-UI;9+followers.+This+profile+was+created;in+December+2025." alt="Contribution highlights as of October 2026" />
 </p>
 
-- <a href="https://github.com/Poojana-Fernando/FaceMirror"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=FaceMirror" alt="FaceMirror" /></a>
-- <a href="https://github.com/Poojana-Fernando/healthqor_HealthID"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=360&height=36&lines=healthqor_HealthID" alt="healthqor_HealthID" /></a>
-- <a href="https://github.com/Poojana-Fernando/Graphosec"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=Graphosec" alt="Graphosec" /></a>
-- <a href="https://github.com/Poojana-Fernando/VIVA-Group-O-NSBM-WEB"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=420&height=36&lines=VIVA-Group-O-NSBM-WEB" alt="VIVA-Group-O-NSBM-WEB" /></a>
-- <a href="https://github.com/Poojana-Fernando/Crow-Game"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=Crow-Game" alt="Crow-Game" /></a>
-- <a href="https://github.com/Poojana-Fernando/Beyond-the-stars"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=360&height=36&lines=Beyond-the-stars" alt="Beyond-the-stars" /></a>
-- <a href="https://github.com/Poojana-Fernando/3rd-Person-Controller"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=420&height=36&lines=3rd-Person-Controller" alt="3rd-Person-Controller" /></a>
-- <a href="https://github.com/Poojana-Fernando/Natural-Scroll"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=320&height=36&lines=Natural-Scroll" alt="Natural-Scroll" /></a>
-- <a href="https://github.com/Poojana-Fernando/NexL-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=320&height=36&lines=NexL-Portfolio" alt="NexL-Portfolio" /></a>
-- <a href="https://github.com/Poojana-Fernando/APEX_WEB-UI"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=00FF64&vCenter=true&repeat=false&width=280&height=36&lines=APEX_WEB-UI" alt="APEX_WEB-UI" /></a>
+- <a href="https://github.com/Poojana-Fernando/FaceMirror"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=FaceMirror" alt="FaceMirror" /></a>
+- <a href="https://github.com/Poojana-Fernando/healthqor_HealthID"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=360&height=36&lines=healthqor_HealthID" alt="healthqor_HealthID" /></a>
+- <a href="https://github.com/Poojana-Fernando/Graphosec"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=Graphosec" alt="Graphosec" /></a>
+- <a href="https://github.com/Poojana-Fernando/VIVA-Group-O-NSBM-WEB"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=420&height=36&lines=VIVA-Group-O-NSBM-WEB" alt="VIVA-Group-O-NSBM-WEB" /></a>
+- <a href="https://github.com/Poojana-Fernando/Crow-Game"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=Crow-Game" alt="Crow-Game" /></a>
+- <a href="https://github.com/Poojana-Fernando/Beyond-the-stars"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=360&height=36&lines=Beyond-the-stars" alt="Beyond-the-stars" /></a>
+- <a href="https://github.com/Poojana-Fernando/3rd-Person-Controller"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=420&height=36&lines=3rd-Person-Controller" alt="3rd-Person-Controller" /></a>
+- <a href="https://github.com/Poojana-Fernando/Natural-Scroll"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=320&height=36&lines=Natural-Scroll" alt="Natural-Scroll" /></a>
+- <a href="https://github.com/Poojana-Fernando/NexL-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=320&height=36&lines=NexL-Portfolio" alt="NexL-Portfolio" /></a>
+- <a href="https://github.com/Poojana-Fernando/APEX_WEB-UI"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&pause=1000&color=8B949E&vCenter=true&width=280&height=36&lines=APEX_WEB-UI" alt="APEX_WEB-UI" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=22&duration=1&pause=1000&color=00FF64&center=true&vCenter=true&repeat=false&width=760&height=42&lines=Built+by+Poojana+Fernando" alt="Built by Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=760&height=42&lines=Built+by+Poojana+Fernando" alt="Built by Poojana Fernando" />
 </p>
 
 <p align="center">
