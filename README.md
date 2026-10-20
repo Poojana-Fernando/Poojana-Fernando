@@ -40,9 +40,6 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,dotnet&perline=8" alt="Game Development" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=100&lines=Unity+mobile+games,+third-person+character;control,+horror+and+environment+scenes,+and+a;small+2D+PC+engine+built+with+C%23+%2F+.NET+and+MonoGame." alt="Unity mobile games, third-person character control, horror and environment scenes, and a small 2D PC engine built with C# / .NET and MonoGame." />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=24&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=760&height=44&lines=Full-Stack+and+Languages" alt="Full-Stack and Languages" />
