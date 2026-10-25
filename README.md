@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=1&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+%28BSc+Hons%29+at;NSBM+Green+University,+Sri+Lanka,+specializing;in+Machine+learning+and+AI+systems+development; +game+development+with+Unity+and+C%23+across;mobile+and+desktop.+,;with+additional+experience+in+full-stack;development+and+secure+software+design.,+where;I+developed+strong+skills+in+customer+service,;reporting,+and+teamwork.+I+thrive+on+challenging;projects+and+am+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=270&lines=Computer+Science+undergraduate+(BSc+Hons)+at;NSBM+Green+University%2C+Sri+Lanka%2C+specializing;in+Machine+Learning+and+AI+systems+development;and+game+development+with+Unity+and+C%23;across+mobile+and+desktop.;I+also+have+experience+in+full-stack;development+and+secure+software+design.;I+thrive+on+challenging+projects;and+I'm+always+looking+to+grow.;Reach+me+on+LinkedIn." alt="About Poojana Fernando" />
 </p>
 
 <p align="center">
